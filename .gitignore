@@ -1,0 +1,13 @@
+notebooks
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+*/*/.ipynb_checkpoints
+.devcontainer
+*__pycache__/
+logs/*
+mlruns
+core
+__pycache__/*
+*/__pycache__/
+*/__init__/*
